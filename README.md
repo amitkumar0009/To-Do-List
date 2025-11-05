@@ -19,9 +19,7 @@ This app helps users manage daily tasks efficiently — you can **add**, **edit*
 ## 🧠 Tech Stack
 
 - **React** – Frontend library  
-- **TailwindCSS** – Styling  
-- **Vite** – Development environment  
-- **React Icons** – For edit/delete icons
+- **TailwindCSS** – Styling 
 
 ---
 
